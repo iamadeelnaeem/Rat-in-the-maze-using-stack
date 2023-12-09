@@ -1,0 +1,3 @@
+﻿  Task1.cpp
+D:\5th smstr subjects\DSA\Stack ADT\ADT Stack\Project1\Project1\Stack.cpp(37): warning C4715: 'Stack<int>::Top': not all control paths return a value
+  Project1.vcxproj -> D:\5th smstr subjects\DSA\Stack ADT\ADT Stack\Project1\Debug\Stack.exe
